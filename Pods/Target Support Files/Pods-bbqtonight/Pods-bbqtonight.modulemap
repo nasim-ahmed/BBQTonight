@@ -1,0 +1,6 @@
+framework module Pods_bbqtonight {
+  umbrella header "Pods-bbqtonight-umbrella.h"
+
+  export *
+  module * { export * }
+}
